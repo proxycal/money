@@ -42,7 +42,7 @@ yesButton.addEventListener("click", function() {
     document.body.style.backgroundColor = "#9f5f83";
     reaction.src = "images/download (4).gif";  
     const message = document.getElementById("message");
-    message.innerText = " THAT'S MY JIGGA <3";
+    message.innerText = " THAT'S MY SISTER <3";
     message.style.fontSize = "40px";
     message.style.marginTop = "20px";
 
