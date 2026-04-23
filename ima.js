@@ -55,7 +55,3 @@ yesButton.addEventListener("click", function() {
 noButton.addEventListener("click", noocount);
 yesButton.style.fontSize = (16 + nocount * 5) + "px";
 yesButton.style.transform = "scale(" + scalevalue + ")";
-
-
-
-
